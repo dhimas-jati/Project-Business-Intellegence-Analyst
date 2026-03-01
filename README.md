@@ -1,3 +1,3 @@
 # Project-Business-Intellegence-Analyst
 
-![Alt Text](path/to/Submission_Sales_Dashboard (1)_page-0001.png)
+![Image](https://github.com/user-attachments/assets/c0742748-6a67-44e2-b876-5b6e357a43be)
